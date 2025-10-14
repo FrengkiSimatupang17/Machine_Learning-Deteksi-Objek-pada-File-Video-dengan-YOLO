@@ -38,4 +38,7 @@ pip install -r requirements.txt
 
 Berikut adalah contoh frame dari video hasil deteksi:
 
-*(Opsional: Anda bisa menambahkan screenshot hasil deteksi di sini jika ada)*
+*![Frame 1](./img/frame1.png)
+*![Frame 2](./img/frame2.png)
+*![Frame 3](./img/frame3.png)
+*![Frame 4](./img/frame4.png)
